@@ -1,0 +1,5 @@
+# config-client配置文件
+server:
+  port: 9008
+
+foo: foo version 1
