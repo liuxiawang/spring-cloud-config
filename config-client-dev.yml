@@ -2,4 +2,4 @@
 server:
   port: 9008
 
-foo: foo version 1
+foo: foo version git
